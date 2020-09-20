@@ -30,7 +30,7 @@
     <a href="https://github.com/NjaalWiik/repo_name"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/NjaalWiik/repo_name">View Demo</a>
+    <a href="https://njaalwiik.github.io/light-dark-mode-landing-page">View Demo</a>
     ·
     <a href="https://github.com/NjaalWiik/repo_name/issues">Report Bug</a>
     ·
