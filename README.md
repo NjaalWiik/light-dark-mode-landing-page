@@ -27,14 +27,10 @@
   <p align="center">
     Front end project. Landing page that can toggle between light and dark mode.
     <br />
-    <a href="https://github.com/NjaalWiik/light-dark-mode-landing-page"><strong>Explore the docs »</strong></a>
+    <a href="https://njaalwiik.github.io/light-dark-mode-landing-page"><strong>View Demo »</strong></a>
     <br />
     <br />
-<<<<<<< HEAD
-    <a href="https://github.com/NjaalWiik/light-dark-mode-landing-page">View Demo</a>
-=======
-    <a href="https://njaalwiik.github.io/light-dark-mode-landing-page">View Demo</a>
->>>>>>> a8a88fcaab717a0363f8caed75b0a57bfa76da10
+    <a href="https://github.com/NjaalWiik/light-dark-mode-landing-page"> Explore the docs</a>
     ·
     <a href="https://github.com/NjaalWiik/light-dark-mode-landing-page/issues">Report Bug</a>
     ·
