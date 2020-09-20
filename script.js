@@ -54,6 +54,6 @@ if (currentTheme) {
 
   if (currentTheme === DARK_THEME) {
     toggleSwitch.checked = true;
-    darkMode();
+    toggleDarkLightMode(DARK_THEME);
   }
 }
