@@ -103,7 +103,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Njål Wiik - [@linkedin-url](https://linkedin.com/in/NjaalWiik)
+Njål Wiik - [@linkedin-url](https://www.linkedin.com/in/njaal-wiik/)
 
 Project Link: [https://github.com/NjaalWiik/light-dark-mode-landing-page](https://github.com/NjaalWiik/light-dark-mode-landing-page)
 
@@ -133,5 +133,5 @@ Project Link: [https://github.com/NjaalWiik/light-dark-mode-landing-page](https:
 [license-shield]: https://img.shields.io/github/license/NjaalWiik/repo.svg?style=flat-square
 [license-url]: https://github.com/NjaalWiik/repo/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/NjaalWiik
+[linkedin-url]: https://www.linkedin.com/in/njaal-wiik/
 [product-screenshot]: https://github.com/NjaalWiik/light-dark-mode-landing-page/blob/master/img/demo.png?raw=true
