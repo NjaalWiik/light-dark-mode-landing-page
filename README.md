@@ -1,10 +1,8 @@
 <!-- PROJECT SHIELDS -->
 <!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
+Here's a blank template to get started:
+**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
+`repo_name`
 -->
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
@@ -60,16 +58,12 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://github.com/NjaalWiik/light-dark-mode-landing-page/blob/master/img/Light%20Dark%20Mode.png?raw=true)
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`NjaalWiik`, `light-dark-mode-landing-page`, `twitter_handle`, `email`
-
 
 ### Built With
 
-* []()
-* []()
-* []()
+* HTML
+* JavaScript
+* CSS
 
 
 <!-- USAGE EXAMPLES -->
