@@ -22,7 +22,7 @@
     <img src="img/logo.png" alt="Logo" width="100" height="100">
   </a>
 
-  <h3 align="center">Light Dark Mode Landing Page</h3>
+  <h3 align="center">Light/Dark Mode Landing Page</h3>
 
   <p align="center">
     Front end project. Landing page that can toggle between light and dark mode.
