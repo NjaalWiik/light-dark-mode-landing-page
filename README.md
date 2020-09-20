@@ -18,11 +18,11 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/NjaalWiik/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/NjaalWiik/light-dark-mode-landing-page">
+    <img src="img/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">YOUR_TITLE</h3>
+  <h3 align="center">Light Dark Mode Landing Page</h3>
 
   <p align="center">
     YOUR_SHORT_DESCRIPTION
