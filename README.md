@@ -4,14 +4,13 @@ Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
 `repo_name`
 -->
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
-
 
 <!-- PROJECT LOGO -->
 <br />
@@ -36,9 +35,8 @@ Here's a blank template to get started:
   </p>
 </p>
 
-
-
 <!-- TABLE OF CONTENTS -->
+
 ## Table of Contents
 
 - [Table of Contents](#table-of-contents)
@@ -51,36 +49,30 @@ Here's a blank template to get started:
 - [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
 
-
-
 <!-- ABOUT THE PROJECT -->
+
 ## About The Project
 
 [![Product Name Screen Shot][product-screenshot]](https://github.com/NjaalWiik/light-dark-mode-landing-page/blob/master/img/Light%20Dark%20Mode.png?raw=true)
 
-
 ### Built With
 
-* HTML
-* JavaScript
-* CSS
-
+- <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
 <!-- USAGE EXAMPLES -->
+
 ## Usage
 
 In this project I practiced creating a landing page divided in sections with the option of changing to dark mode.
 
-
-
 <!-- ROADMAP -->
+
 ## Roadmap
 
 See the [open issues](https://github.com/NjaalWiik/light-dark-mode-landing-page/issues) for a list of proposed features (and known issues).
 
-
-
 <!-- CONTRIBUTING -->
+
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -91,37 +83,31 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-
-
 <!-- LICENSE -->
+
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-
-
 <!-- CONTACT -->
+
 ## Contact
 
 Njål Wiik - [@linkedin-url](https://www.linkedin.com/in/njaal-wiik/)
 
 Project Link: [https://github.com/NjaalWiik/light-dark-mode-landing-page](https://github.com/NjaalWiik/light-dark-mode-landing-page)
 
-
-
 <!-- ACKNOWLEDGEMENTS -->
+
 ## Acknowledgements
 
-* []()
-* []()
-* []()
-
-
-
-
+- []()
+- []()
+- []()
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
 [contributors-shield]: https://img.shields.io/github/contributors/NjaalWiik/repo.svg?style=flat-square
 [contributors-url]: https://github.com/NjaalWiik/repo/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/NjaalWiik/repo.svg?style=flat-square
