@@ -27,14 +27,14 @@
   <p align="center">
     YOUR_SHORT_DESCRIPTION
     <br />
-    <a href="https://github.com/NjaalWiik/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/NjaalWiik/light-dark-mode-landing-page"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/NjaalWiik/repo_name">View Demo</a>
+    <a href="https://github.com/NjaalWiik/light-dark-mode-landing-page">View Demo</a>
     ·
-    <a href="https://github.com/NjaalWiik/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/NjaalWiik/light-dark-mode-landing-page/issues">Report Bug</a>
     ·
-    <a href="https://github.com/NjaalWiik/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/NjaalWiik/light-dark-mode-landing-page/issues">Request Feature</a>
   </p>
 </p>
 
@@ -62,7 +62,7 @@
 
 Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`NjaalWiik`, `repo_name`, `twitter_handle`, `email`
+`NjaalWiik`, `light-dark-mode-landing-page`, `twitter_handle`, `email`
 
 
 ### Built With
@@ -84,7 +84,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/NjaalWiik/repo_name/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/NjaalWiik/light-dark-mode-landing-page/issues) for a list of proposed features (and known issues).
 
 
 
@@ -111,9 +111,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+Njål Wiik - [@linkedin-url](https://linkedin.com/in/NjaalWiik)
 
-Project Link: [https://github.com/NjaalWiik/repo_name](https://github.com/NjaalWiik/repo_name)
+Project Link: [https://github.com/NjaalWiik/light-dark-mode-landing-page](https://github.com/NjaalWiik/light-dark-mode-landing-page)
 
 
 
